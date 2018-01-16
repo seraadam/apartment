@@ -4,4 +4,4 @@
 - Patch 2017.1.0p4
 - GVR Unity SDK v1.70.0
 
-![alt text](WhatsApp Image 2018-01-15 at 4.09.24 PM (1).jpeg)
+![alt text](apartment/WhatsApp Image 2018-01-15 at 4.09.24 PM (1).jpeg "Screenshoots")
