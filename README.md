@@ -8,4 +8,4 @@
 ![Alt text](WhatsApp.jpeg?raw=true "Optional Title")
 
 ![Alt text](WhatsApp3.jpeg?raw=true "Optional Title")
-![Alt text](Screen.jpeg?raw=true "Optional Title")
+![Alt text](shot.png?raw=true "Optional Title")
