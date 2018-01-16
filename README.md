@@ -5,3 +5,4 @@
 - GVR Unity SDK v1.70.0
 
 [Alt text](WhatsApp Image 2018-01-15 at 4.09.24 PM (1).jpeg?raw=true "Optional Title")
+![Settings Window](https://raw.github.com/seraadam/apartment/master/WhatsApp Image 2018-01-15 at 4.09.24 PM (1).jpeg)
