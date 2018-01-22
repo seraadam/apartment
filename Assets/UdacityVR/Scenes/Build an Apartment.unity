@@ -56,7 +56,7 @@ LightmapSettings:
   m_LightmapEditorSettings:
     serializedVersion: 9
     m_Resolution: 2
-    m_BakeResolution: 40
+    m_BakeResolution: 80
     m_TextureWidth: 2048
     m_TextureHeight: 1024
     m_AO: 1
@@ -122,7 +122,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000012658101780, guid: 4f77f65f28625b2408dd6be2abf38c4c, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.83
+      value: -2.852
       objectReference: {fileID: 0}
     - target: {fileID: 4000012658101780, guid: 4f77f65f28625b2408dd6be2abf38c4c, type: 2}
       propertyPath: m_LocalPosition.z
@@ -528,7 +528,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000013066663794, guid: 398ff0c48ad886342b3c3a533501ca78, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.1837678
+      value: -2.205
       objectReference: {fileID: 0}
     - target: {fileID: 4000013066663794, guid: 398ff0c48ad886342b3c3a533501ca78, type: 2}
       propertyPath: m_LocalPosition.z
@@ -821,7 +821,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000012597210532, guid: 54b337ba696e13a408fe92998f6e75f6, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.3487678
+      value: -2.385
       objectReference: {fileID: 0}
     - target: {fileID: 4000012597210532, guid: 54b337ba696e13a408fe92998f6e75f6, type: 2}
       propertyPath: m_LocalPosition.z
@@ -1210,7 +1210,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000011065824416, guid: 2a71a28a8f01d684b859b88440dbae17, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.3334677
+      value: -2.387
       objectReference: {fileID: 0}
     - target: {fileID: 4000011065824416, guid: 2a71a28a8f01d684b859b88440dbae17, type: 2}
       propertyPath: m_LocalPosition.z
@@ -1977,7 +1977,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000011099495384, guid: 02857284e37262f4ab3e8d32e95e2f44, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.61
+      value: -2.854
       objectReference: {fileID: 0}
     - target: {fileID: 4000011099495384, guid: 02857284e37262f4ab3e8d32e95e2f44, type: 2}
       propertyPath: m_LocalPosition.z
@@ -2039,7 +2039,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000011376827500, guid: fb3f572dbed21524f93030ca3909b75d, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -1.9567677
+      value: -2.233
       objectReference: {fileID: 0}
     - target: {fileID: 4000011376827500, guid: fb3f572dbed21524f93030ca3909b75d, type: 2}
       propertyPath: m_LocalPosition.z
